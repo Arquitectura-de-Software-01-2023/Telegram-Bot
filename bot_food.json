@@ -1,0 +1,38 @@
+[
+  {
+    "id": "start",
+    "description": "¡Bienvenido al bot de recetas de cocina! Aquí encontrarás diferentes platos y los pasos para cocinarlos. Por favor, ingresa el comando del plato que te interesa para obtener la receta completa."
+  },
+  {
+    "id": "pasta",
+    "description": "Pasta\n\nIngredientes:\n- 250 g de pasta\n- 2 litros de agua\n- Sal al gusto\n\nPreparación:\n1. Hierve el agua en una olla grande y agrega sal al gusto.\n2. Añade la pasta y cocina según las instrucciones del paquete hasta que esté al dente.\n3. Escurre la pasta y sírvela con tu salsa favorita. ¡Disfruta de tu plato de pasta!"
+  },
+  {
+    "id": "ensalada",
+    "description": "Ensalada\n\nIngredientes:\n- Lechuga\n- Tomate\n- Pepino\n- Zanahoria\n- Aceitunas\n- Aceite de oliva\n- Vinagre\n- Sal y pimienta al gusto\n\nPreparación:\n1. Lava y corta todas las verduras en trozos pequeños.\n2. Mezcla las verduras en un tazón grande.\n3. Aliña la ensalada con aceite de oliva, vinagre, sal y pimienta al gusto.\n4. Revuelve bien para asegurarte de que todos los ingredientes estén cubiertos con el aliño. ¡Tu ensalada está lista para disfrutar!"
+  },
+  {
+    "id": "sopa",
+    "description": "Sopa\n\nIngredientes:\n- Caldo de pollo o vegetales\n- Verduras al gusto (zanahoria, cebolla, apio, etc.)\n- Pasta o arroz\n- Sal y especias al gusto\n\nPreparación:\n1. En una olla grande, lleva el caldo de pollo o vegetales a hervir.\n2. Agrega las verduras y cocina hasta que estén tiernas.\n3. Añade la pasta o el arroz y cocina según las instrucciones del paquete.\n4. Sazona con sal y especias al gusto.\n5. Sirve caliente. ¡Disfruta de tu deliciosa sopa!"
+  },
+  {
+    "id": "hamburguesa",
+    "description": "Hamburguesa\n\nIngredientes:\n- Pan de hamburguesa\n- Carne molida\n- Queso\n- Lechuga\n- Tomate\n- Cebolla\n- Kétchup y mostaza\n- Sal y pimienta al gusto\n\nPreparación:\n1. Moldea la carne molida en forma de hamburguesa y sazónala con sal y pimienta al gusto.\n2. Cocina la hamburguesa en una parrilla caliente o sartén hasta que esté bien cocida.\n3. Tuesta el pan de hamburguesa en el horno o en una tostadora.\n4. Arma la hamburguesa colocando la carne cocida en el pan y agregando queso, lechuga, tomate, cebolla, kétchup y mostaza al gusto.\n5. Cierra la hamburguesa con la otra mitad del pan y disfruta."
+  },
+  {
+    "id": "pizza",
+    "description": "Pizza\n\nIngredientes:\n- Masa de pizza\n- Salsa de tomate\n- Queso rallado\n- Ingredientes adicionales al gusto (jamón, champiñones, aceitunas, etc.)\n\nPreparación:\n1. Precalienta el horno a la temperatura indicada en la masa de pizza.\n2. Extiende la masa de pizza sobre una bandeja apta para horno.\n3. Cubre la masa con salsa de tomate y espolvorea queso rallado por encima.\n4. Agrega los ingredientes adicionales al gusto.\n5. Hornea la pizza según las instrucciones de la masa hasta que esté dorada y el queso esté derretido. ¡Disfruta de una deliciosa pizza casera!"
+  },
+  {
+    "id": "tacos",
+    "description": "Tacos\n\nIngredientes:\n- Tortillas de maíz o harina\n- Carne (pollo, res, cerdo) o vegetales\n- Salsa\n- Cebolla\n- Cilantro\n- Limón\n- Sal y especias al gusto\n\nPreparación:\n1. Cocina la carne o los vegetales con sal y especias al gusto en una sartén caliente hasta que estén tiernos y bien cocidos.\n2. Calienta las tortillas en una sartén o en el horno.\n3. Rellena las tortillas con la carne o los vegetales cocidos.\n4. Agrega salsa, cebolla picada, cilantro y un chorrito de limón al gusto.\n5. Dobla las tortillas y disfruta de tus deliciosos tacos."
+  },
+  {
+    "id": "sushi",
+    "description": "Sushi\n\nIngredientes:\n- Algas nori\n- Arroz para sushi\n- Vinagre de arroz\n- Pescado o vegetales para relleno (salmón, atún, aguacate, pepino, zanahoria, etc.)\n- Salsa de soja\n- Wasabi y jengibre encurtido (opcional)\n\nPreparación:\n1. Prepara el arroz para sushi según las instrucciones del paquete y agrega vinagre de arroz al gusto.\n2. Extiende una lámina de alga nori sobre una esterilla de sushi.\n3. Cubre el alga nori con una capa delgada de arroz para sushi.\n4. Coloca el pescado o los vegetales en el centro del arroz.\n5. Enrolla el sushi firmemente con la ayuda de la esterilla.\n6. Corta el rollo en rodajas y sírvelo con salsa de soja, wasabi y jengibre encurtido al gusto. ¡Disfruta de tu sushi casero!"
+  },
+  {
+    "id": "postre",
+    "description": "Postre\n\nIngredientes:\n- Ingredientes principales del postre deseado (pastel, helado, flan, etc.)\n- Ingredientes adicionales para decoración (frutas, chocolate, crema batida, etc.)\n\nPreparación:\n1. Sigue las instrucciones específicas de cada postre para prepararlo adecuadamente.\n2. Una vez listo, decora el postre con ingredientes adicionales al gusto.\n3. Sirve y disfruta de un delicioso postre como broche final de tu comida."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "start",
+    "description": "¡Bienvenido al bot de juegos! Aquí encontrarás información sobre diferentes juegos y cómo instalarlos. Por favor, ingresa el comando del juego que te interesa para obtener los pasos de instalación."
+  },
+  {
+    "id": "sims4",
+    "description": "Pasos para instalar el juego Sims 4:\n\n1. Descarga el instalador del juego desde el sitio oficial.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Acepta los términos y condiciones de la instalación.\n4. Selecciona la ubicación de instalación del juego en tu disco duro.\n5. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "minecraft",
+    "description": "Pasos para instalar el juego Minecraft:\n\n1. Compra y descarga el juego desde el sitio oficial.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Acepta los términos y condiciones de la instalación.\n4. Selecciona la ubicación de instalación del juego en tu disco duro.\n5. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "fortnite",
+    "description": "Pasos para instalar el juego Fortnite:\n\n1. Accede al sitio oficial y descarga el instalador del juego.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Crea una cuenta de Epic Games si no tienes una.\n4. Inicia sesión en tu cuenta de Epic Games.\n5. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "gta5",
+    "description": "Pasos para instalar el juego Grand Theft Auto V:\n\n1. Compra y descarga el juego desde la plataforma oficial.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Acepta los términos y condiciones de la instalación.\n4. Selecciona la ubicación de instalación del juego en tu disco duro.\n5. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "fallout4",
+    "description": "Pasos para instalar el juego Fallout 4:\n\n1. Compra y descarga el juego desde la plataforma oficial.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Acepta los términos y condiciones de la instalación.\n4. Selecciona la ubicación de instalación del juego en tu disco duro.\n5. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "overwatch",
+    "description": "Pasos para instalar el juego Overwatch:\n\n1. Compra y descarga el juego desde el sitio oficial.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Acepta los términos y condiciones de la instalación.\n4. Selecciona la ubicación de instalación del juego en tu disco duro.\n5. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "leagueoflegends",
+    "description": "Pasos para instalar el juego League of Legends:\n\n1. Descarga el instalador del juego desde el sitio oficial.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Crea una cuenta de Riot Games si no tienes una.\n4. Inicia sesión en tu cuenta de Riot Games.\n5. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "wow",
+    "description": "Pasos para instalar el juego World of Warcraft:\n\n1. Compra el juego y obtén una clave de activación.\n2. Descarga el instalador del juego desde el sitio oficial.\n3. Ejecuta el instalador y sigue las instrucciones en pantalla.\n4. Crea una cuenta de Blizzard si no tienes una.\n5. Inicia sesión en tu cuenta de Blizzard.\n6. Ingresa la clave de activación para desbloquear el juego.\n7. Espera a que se complete la instalación y disfruta del juego."
+  },
+  {
+    "id": "valorant",
+    "description": "Pasos para instalar el juego Valorant:\n\n1. Descarga el instalador del juego desde el sitio oficial.\n2. Ejecuta el instalador y sigue las instrucciones en pantalla.\n3. Crea una cuenta de Riot Games si no tienes una.\n4. Inicia sesión en tu cuenta de Riot Games.\n5. Espera a que se complete la instalación y disfruta del juego."
+  }
+]
