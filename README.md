@@ -120,6 +120,7 @@ Antes de comenzar, se debe tener los siguientes requisitos instalados y configur
 <ol>
   <li>Iniciar sesión en la <a href="https://console.aws.amazon.com/">Consola de administración de AWS</a>.</li>
   <li>Crear un bucket en Amazon S3 para almacenar los datos del bot.</li>
+  <li>Agregar los dos objetos del presente repositorio en el bucket.</li>
   <li>Crear el lambda con el siguiente código:</li>
 </ol>
 
@@ -195,10 +196,9 @@ def lambda_handler(event, context):
 <ol start="4">
   <li>Configurar las políticas de acceso y permisos adecuados para el bucket y el lambda.</li>
   <li>Configurar el API Gateway con el lambda.</li>
-  <li>Colocar el nombre del bucket en el código del lambda.</li>
-  <li>Colocar el token previamente obtenido en el código del lambda.</li>
-  <li>Agregar los dos objetos del presente repositorio en el bucket.</li>
-  <li>Colocar el nombre del objeto.json en el código del lambda.</li>
+  <li>Colocar el nombre del bucket en el código del lambda ({bucket-name}).</li>
+  <li>Colocar el token previamente obtenido en el código del lambda ({token}).</li>
+  <li>Colocar el nombre del objeto.json que se desea utilizar en el código del lambda {object-json}.</li>
 </ol>
 
 <!-- USE -->
