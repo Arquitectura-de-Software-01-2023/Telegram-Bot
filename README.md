@@ -20,21 +20,21 @@
   <summary>Tabla de Contenidos</summary>
   <ol>
     <li>
-      <a href="acerca-del-proyecto">Acerca del Proyecto</a>
+      <a>Acerca del Proyecto</a>
       <ul>
-        <li><a href="descripción">Descripción</a></li>
-        <li><a href="tecnologías">Tecnologías</a></li>
+        <li><a>Descripción</a></li>
+        <li><a>Tecnologías</a></li>
       </ul>
     </li>
     <li>
-      <a href="implementación">Implementación</a>
+      <a>Implementación</a>
       <ul>
-        <li><a href="requisitos">Requisitos</a></li>
-        <li><a href="despliegue">Despliegue</a></li>
+        <li><a>Requisitos</a></li>
+        <li><a>Despliegue</a></li>
       </ul>
     </li>
-    <li><a href="uso">Uso</a></li>
-    <li><a href="contacto">Contacto</a></li>
+    <li><a>Uso</a></li>
+    <li><a>Contacto</a></li>
   </ol>
 </details>
 
@@ -106,7 +106,7 @@ Antes de comenzar, se debe tener los siguientes requisitos instalados y configur
 
 <!-- DEPLOYMENT -->
 ### Despliegue
-#### Configuración del webhook de Telegram mediante Postman
+<h4> Configuración del webhook de Telegram mediante Postman</h4>
 <ol>
   <li>Obtener el token del bot desde BotFather en Telegram.</li>
   <li>Abrir Postman y crea una nueva solicitud POST.</li>
@@ -115,7 +115,8 @@ Antes de comenzar, se debe tener los siguientes requisitos instalados y configur
     reemplazando <code>&lt;token&gt;</code> con el token del bot y <code>&lt;webhook_url&gt;</code> con la URL del webhook.</li>
   <li>Enviar la solicitud y verificar que el webhook se haya configurado correctamente.</li>
 </ol>
-#### Configuración básica en AWS
+    
+<h4> Configuración básica en AWS</h4>
 <ol>
   <li>Iniciar sesión en la <a href="https://console.aws.amazon.com/">Consola de administración de AWS</a>.</li>
   <li>Crear un bucket en Amazon S3 para almacenar los datos del bot.</li>
