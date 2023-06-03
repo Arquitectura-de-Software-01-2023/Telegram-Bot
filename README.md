@@ -139,14 +139,14 @@ def lambda_handler(event, context):
     chat_id = payload['message']['chat']['id']
 
     # Set Telegram URL
-    url = f'https://api.telegram.org/<token>/sendMessage'
+    url = f'https://api.telegram.org/{token}/sendMessage'
 
     # Initialize S3 client
     s3_client = boto3.client('s3')
 
     # Get list of commands from bucket.json
     try:
-        response = s3_client.get_object(Bucket='<bucket-name>', Key='<object-json>')
+        response = s3_client.get_object(Bucket='{bucket-name}', Key='{object-json}')
         data = response['Body'].read().decode('utf-8')
         bucket_data = json.loads(data)
         commands = [item['id'] for item in bucket_data]
