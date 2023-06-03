@@ -196,9 +196,9 @@ def lambda_handler(event, context):
 <ol start="4">
   <li>Configurar las políticas de acceso y permisos adecuados para el bucket y el lambda.</li>
   <li>Configurar el API Gateway con el lambda.</li>
-  <li>Colocar el nombre del bucket en el código del lambda ({bucket-name}).</li>
-  <li>Colocar el token previamente obtenido en el código del lambda ({token}).</li>
-  <li>Colocar el nombre del objeto.json que se desea utilizar en el código del lambda {object-json}.</li>
+  <li>Colocar el nombre del bucket {bucket-name} en el código del lambda.</li>
+  <li>Colocar el token {token} previamente obtenido en el código del lambda.</li>
+  <li>Colocar el nombre del objeto.json {object-json} que se desea utilizar en el código del lambda.</li>
 </ol>
 
 <!-- USE -->
